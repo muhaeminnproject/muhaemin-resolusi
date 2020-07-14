@@ -1,0 +1,2 @@
+muhaemin resolusi
+pendataan siswa baru, ada menu simpan, ubah, hapus, dan ada report serta detail data siswa serta dapat cetak kartu pelajar.
